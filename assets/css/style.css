@@ -1,0 +1,129 @@
+/* Start nav bar css */
+.navbar-brand{
+    background: #4aaaa5;
+    padding: 20px;
+    margin-right: 575px;
+    margin-left:  450px;
+    
+}
+
+header{
+    color: #ffffff;
+}
+/* End nav bar css */
+
+/* Start index.html css */
+.index-img{
+    height: 250px;
+    position: absolute;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+h1{
+    color: #4aaaa5;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+p{
+    color: #777777;
+    margin-left: 300px;
+   
+}
+
+.p1{
+    color: #777777;
+    padding: 5px;
+}
+
+.container{
+    width: 960px;
+    margin-left: 465px;
+    background-color:#ffffff;
+    padding-right: 20px;
+    height: 465px;
+}
+
+.row{
+    width: 960px;
+    position: absolute;
+}
+
+body{
+    background-image: url("../images/background.png");
+}
+/* End of index.html css*/
+
+/* Start of contact.html css*/
+.form-group{
+    width: 940px;
+    padding-left: 10px;
+}
+
+.form-container{
+    background-color: #ffffff;
+    width: 960px;
+    margin-left: 465px;
+}
+
+h2{
+    color: #4aaaa5;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+.btn{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    margin-left: 10px;
+    font-size: 20px;
+    padding-bottom: 10px;
+}/*End of contact.html css*/
+
+/*Start of portfolio.html css*/
+.row-container{
+    width: 960px;
+    background-color: #ffffff;
+    margin-left: 465px;
+}
+
+.row1{
+    padding: 10px;
+}
+
+.row2{
+    padding: 10px;
+}
+
+.card-text{
+    margin-top: 200px;
+}
+
+.card-body{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 20px;
+    text-align: center;
+}
+/* End of portfolio.html css */
+
+/* Start footer css */
+footer{
+    
+    height: 100px;
+    width: 100%;
+    color: white;
+    background-color: #666666;
+    text-align: center;
+}
+.footer1{
+    height: 10px;
+    width: 100%;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+/* End of footer css */
